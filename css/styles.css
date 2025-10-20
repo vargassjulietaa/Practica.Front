@@ -1,0 +1,10 @@
+body {
+    background-image:url(../photoss/fondo1.jpg); background-position: center center; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
+h1 {color: palevioletred ; font-family: cursive; font-size:xx-large; text-align: center; text-decoration: underline;}
+h2 {font-family:Verdana, Geneva, Tahoma, sans-serif; font-size: x-large; text-align: justify;}
+.rosita {color:#75070c; font-size:x-large; text-decoration: underline; text-align: justify ;}
+.claro2 {color:lightseagreen; font-size: x-large; text-decoration: underline; text-align: justify;}
+h3 {color:#c52b7f; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: x-large; text-align: justify;}
+li {font-size: larger; text-align: justify;} 
+p {font-size: larger; text-align: justify;}
+img {width: 300px;}
